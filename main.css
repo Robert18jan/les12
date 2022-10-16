@@ -1,0 +1,115 @@
+header{
+  background-color: green;
+  width: 64%;
+  height: 200px;
+}
+
+#yellow{
+background-color: yellow;
+color: blue;
+width: 250px;
+height: 200px;
+}
+
+#muse1 {
+  width: 200px;
+  heigth: 200px;
+background-image: url(afbeelding/muse1.png);
+}
+
+#red {
+background-color: red;
+color: blue;
+width: 250px;
+height: 200px;
+}
+
+#muse2 {
+  width: 200px;
+  heigth: 200px;
+background-image: url(afbeelding/muse2.jpg);
+}
+
+#blue {
+background-color: blue;
+color: green;
+width: 250px;
+height: 200px;
+}
+
+#muse3 {
+  width: 200px;
+  heigth: 200px;
+background-image: url(afbeelding/muse3.jpg);
+}
+
+#green {
+background-color: green;
+color: brown;
+width: 250px;
+height: 200px;
+}
+
+#muse4 {
+  width: 200px;
+  heigth: 200px;
+background-image: url(afbeelding/muse4.jpg);
+}
+
+#brown {
+background-color: brown;
+color: grey;
+width: 250px;
+height: 200px;
+}
+
+#muse5 {
+  width: 200px;
+  heigth: 200px;
+background-image: url(afbeelding/muse5.jpg);
+}
+
+#grey {
+background-color: grey;
+color: purple;
+width: 250px;
+height: 200px;
+}
+
+#muse6 {
+  width: 200px;
+  heigth: 200px;
+background-image: url(afbeelding/muse6.jpg);
+}
+
+#purple {
+background-color: purple;
+color: silver;
+width: 250px;
+height: 200px;
+}
+
+#muse7 {
+  width: 200px;
+  heigth: 200px;
+background-image: url(afbeelding/muse7.jpg);
+}
+
+#silver {
+background-color: silver;
+color: yellow;
+width: 250px;
+height: 200px;
+}
+
+#muse8 {
+  width: 200px;
+  heigth: 200px;
+background-image: url(afbeelding/muse8.jpg);
+}
+
+footer{
+  background-color: blue;
+  width: 64%;
+  height: 200px;
+}
